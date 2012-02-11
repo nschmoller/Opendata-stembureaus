@@ -1,0 +1,1849 @@
+    [
+    {
+        "districtcode": "1"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7511HC"
+        ,
+        "straatnaam": "LANGESTRAAT"
+        ,
+        "straatcode": "5459"
+        ,
+        "huisnummer": 24
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL CENTRUM"
+        ,
+        "latitude": 52.219147
+        ,
+        "longitude": 6.896398
+
+    }
+
+    ,
+    {
+        "districtcode": "2"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7514CM"
+        ,
+        "straatnaam": "DR BENTHEMSTRAAT"
+        ,
+        "straatcode": "672"
+        ,
+        "huisnummer": 14
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL CENTRUM"
+        ,
+        "latitude": 52.225003
+        ,
+        "longitude": 6.893857
+
+    }
+
+    ,
+    {
+        "districtcode": "3"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7514ZJ"
+        ,
+        "straatnaam": "TULPSTRAAT"
+        ,
+        "straatcode": "10327"
+        ,
+        "huisnummer": 65
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL CENTRUM"
+        ,
+        "latitude": 52.227495
+        ,
+        "longitude": 6.906998
+
+    }
+
+    ,
+    {
+        "districtcode": "4"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7511ZG"
+        ,
+        "straatnaam": "REUDINKSTRAAT"
+        ,
+        "straatcode": "8228"
+        ,
+        "huisnummer": 15
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL CENTRUM"
+        ,
+        "latitude": 52.221258
+        ,
+        "longitude": 6.904810
+
+    }
+
+    ,
+    {
+        "districtcode": "5"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7511AD"
+        ,
+        "straatnaam": "BOULEVARD-1945"
+        ,
+        "straatcode": "1290"
+        ,
+        "huisnummer": 505
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL CENTRUM"
+        ,
+        "latitude": 52.217521
+        ,
+        "longitude": 6.906702
+
+    }
+
+    ,
+    {
+        "districtcode": "6"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7511DG"
+        ,
+        "straatnaam": "DE KLOMP"
+        ,
+        "straatcode": "4978"
+        ,
+        "huisnummer": 75
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL CENTRUM"
+        ,
+        "latitude": 52.219847
+        ,
+        "longitude": 6.901181
+
+    }
+
+    ,
+    {
+        "districtcode": "7"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7512XT"
+        ,
+        "straatnaam": "MOLUKKENSTRAAT"
+        ,
+        "straatcode": "6642"
+        ,
+        "huisnummer": 90
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL CENTRUM"
+        ,
+        "latitude": 52.213127
+        ,
+        "longitude": 6.905147
+
+    }
+
+    ,
+    {
+        "districtcode": "8"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7512CB"
+        ,
+        "straatnaam": "KUIPERSDIJK"
+        ,
+        "straatcode": "5270"
+        ,
+        "huisnummer": 83
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL CENTRUM"
+        ,
+        "latitude": 52.213997
+        ,
+        "longitude": 6.896909
+
+    }
+
+    ,
+    {
+        "districtcode": "9"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7513ER"
+        ,
+        "straatnaam": "HAAKSBERGERSTRAAT"
+        ,
+        "straatcode": "3410"
+        ,
+        "huisnummer": 55
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL CENTRUM"
+        ,
+        "latitude": 52.216176
+        ,
+        "longitude": 6.891289
+
+    }
+
+    ,
+    {
+        "districtcode": "10"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7513ZH"
+        ,
+        "straatnaam": "JOHANNES TER HORSTSTRAAT"
+        ,
+        "straatcode": "4385"
+        ,
+        "huisnummer": 30
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL CENTRUM"
+        ,
+        "latitude": 52.213706
+        ,
+        "longitude": 6.881636
+
+    }
+
+    ,
+    {
+        "districtcode": "11"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7513AL"
+        ,
+        "straatnaam": "M H TROMPLAAN"
+        ,
+        "straatcode": "10269"
+        ,
+        "huisnummer": 28
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL CENTRUM"
+        ,
+        "latitude": 0.0
+        ,
+        "longitude": 0.0
+
+    }
+
+    ,
+    {
+        "districtcode": "12"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7514AD"
+        ,
+        "straatnaam": "HENGELOSESTRAAT"
+        ,
+        "straatcode": "3856"
+        ,
+        "huisnummer": 51
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL CENTRUM"
+        ,
+        "latitude": 52.222909
+        ,
+        "longitude": 6.891946
+
+    }
+
+    ,
+    {
+        "districtcode": "101"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7533AS"
+        ,
+        "straatnaam": "LAGE BOTHOFSTRAAT"
+        ,
+        "straatcode": "5730"
+        ,
+        "huisnummer": 341
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.223566
+        ,
+        "longitude": 6.919584
+
+    }
+
+    ,
+    {
+        "districtcode": "102"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7533BM"
+        ,
+        "straatnaam": "GRONAUSESTRAAT"
+        ,
+        "straatcode": "3321"
+        ,
+        "huisnummer": 300
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.217981
+        ,
+        "longitude": 6.927354
+
+    }
+
+    ,
+    {
+        "districtcode": "103"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7535DK"
+        ,
+        "straatnaam": "CELSIUSSTRAAT"
+        ,
+        "straatcode": "1794"
+        ,
+        "huisnummer": 10
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.216557
+        ,
+        "longitude": 6.922826
+
+    }
+
+    ,
+    {
+        "districtcode": "104"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7541AN"
+        ,
+        "straatnaam": "DAALWEG"
+        ,
+        "straatcode": "1986"
+        ,
+        "huisnummer": 32
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.211344
+        ,
+        "longitude": 6.908906
+
+    }
+
+    ,
+    {
+        "districtcode": "105"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7535BZ"
+        ,
+        "straatnaam": "PASTOOR GEERTMANSTRAAT"
+        ,
+        "straatcode": "2988"
+        ,
+        "huisnummer": 17
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.214127
+        ,
+        "longitude": 6.911065
+
+    }
+
+    ,
+    {
+        "districtcode": "106"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7541XL"
+        ,
+        "straatnaam": "HENDRIK SMELTWEG"
+        ,
+        "straatcode": "9281"
+        ,
+        "huisnummer": 50
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.208664
+        ,
+        "longitude": 6.900591
+
+    }
+
+    ,
+    {
+        "districtcode": "201"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7543ED"
+        ,
+        "straatnaam": "BLEEKHOFSTRAAT"
+        ,
+        "straatcode": "15254"
+        ,
+        "huisnummer": 1
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.208379
+        ,
+        "longitude": 6.882744
+
+    }
+
+    ,
+    {
+        "districtcode": "202"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7543ZJ"
+        ,
+        "straatnaam": "BELGIELAAN"
+        ,
+        "straatcode": "610"
+        ,
+        "huisnummer": 75
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.202938
+        ,
+        "longitude": 6.875861
+
+    }
+
+    ,
+    {
+        "districtcode": "203"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7543BL"
+        ,
+        "straatnaam": "WETHOUDER BEVERSSTRAAT"
+        ,
+        "straatcode": "847"
+        ,
+        "huisnummer": 12
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.206401
+        ,
+        "longitude": 6.877806
+
+    }
+
+    ,
+    {
+        "districtcode": "204"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7545WP"
+        ,
+        "straatnaam": "TOMATENSTRAAT"
+        ,
+        "straatcode": "10207"
+        ,
+        "huisnummer": 27
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.209604
+        ,
+        "longitude": 6.868329
+
+    }
+
+    ,
+    {
+        "districtcode": "205"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7545XE"
+        ,
+        "straatnaam": "BOEKWEITSTRAAT"
+        ,
+        "straatcode": "1016"
+        ,
+        "huisnummer": 39
+        ,
+        "huisnummertoevoeging": "A"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 0.0
+        ,
+        "longitude": 0.0
+
+    }
+
+    ,
+    {
+        "districtcode": "206"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7545TP"
+        ,
+        "straatnaam": "SPINNERSTRAAT"
+        ,
+        "straatcode": "9500"
+        ,
+        "huisnummer": 29
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.211940
+        ,
+        "longitude": 6.875562
+
+    }
+
+    ,
+    {
+        "districtcode": "207"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7545MN"
+        ,
+        "straatnaam": "PLATAANSTRAAT"
+        ,
+        "straatcode": "7716"
+        ,
+        "huisnummer": 50
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.215297
+        ,
+        "longitude": 6.865957
+
+    }
+
+    ,
+    {
+        "districtcode": "208"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7545KJ"
+        ,
+        "straatnaam": "ELFERINKSWEG"
+        ,
+        "straatcode": "2542"
+        ,
+        "huisnummer": 106
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.214618
+        ,
+        "longitude": 6.866162
+
+    }
+
+    ,
+    {
+        "districtcode": "209"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7545BV"
+        ,
+        "straatnaam": "GERARD TERBORGHSTRAAT"
+        ,
+        "straatcode": "10050"
+        ,
+        "huisnummer": 1
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.211943
+        ,
+        "longitude": 6.858061
+
+    }
+
+    ,
+    {
+        "districtcode": "210"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7545BB"
+        ,
+        "straatnaam": "GERARD TERBORGHPLEIN"
+        ,
+        "straatcode": "16331"
+        ,
+        "huisnummer": 1
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.213708
+        ,
+        "longitude": 6.856377
+
+    }
+
+    ,
+    {
+        "districtcode": "211"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7545NK"
+        ,
+        "straatnaam": "WETHOUDER NIJHUISSTRAAT"
+        ,
+        "straatcode": "7096"
+        ,
+        "huisnummer": 70
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.216684
+        ,
+        "longitude": 6.860690
+
+    }
+
+    ,
+    {
+        "districtcode": "301"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7521VG"
+        ,
+        "straatnaam": "BONAIRESTRAAT"
+        ,
+        "straatcode": "1095"
+        ,
+        "huisnummer": 9
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.227500
+        ,
+        "longitude": 6.871969
+
+    }
+
+    ,
+    {
+        "districtcode": "302"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7521EN"
+        ,
+        "straatnaam": "G J VAN HEEKSTRAAT"
+        ,
+        "straatcode": "3695"
+        ,
+        "huisnummer": 408
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.228836
+        ,
+        "longitude": 6.861517
+
+    }
+
+    ,
+    {
+        "districtcode": "303"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7521DB"
+        ,
+        "straatnaam": "SCHIETBAANWEG"
+        ,
+        "straatcode": "8869"
+        ,
+        "huisnummer": 30
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.230199
+        ,
+        "longitude": 6.865383
+
+    }
+
+    ,
+    {
+        "districtcode": "304"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7521HN"
+        ,
+        "straatnaam": "SCHORPIOENSTRAAT"
+        ,
+        "straatcode": "17018"
+        ,
+        "huisnummer": 55
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.228359
+        ,
+        "longitude": 6.857198
+
+    }
+
+    ,
+    {
+        "districtcode": "305"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7521JH"
+        ,
+        "straatnaam": "JUPITERSTRAAT"
+        ,
+        "straatcode": "4666"
+        ,
+        "huisnummer": 7
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.231275
+        ,
+        "longitude": 6.853327
+
+    }
+
+    ,
+    {
+        "districtcode": "306"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7522NL"
+        ,
+        "straatnaam": "DE HEMS"
+        ,
+        "straatcode": "12646"
+        ,
+        "huisnummer": 20
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL NOORD"
+        ,
+        "latitude": 0.0	
+        ,
+        "longitude": 0.0
+
+    }
+
+    ,
+    {
+        "districtcode": "401"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7522AH"
+        ,
+        "straatnaam": "ROESSINGHSBLEEKWEG"
+        ,
+        "straatcode": "8440"
+        ,
+        "huisnummer": 33
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL NOORD"
+        ,
+        "latitude": 52.230892
+        ,
+        "longitude": 6.877455
+
+    }
+
+    ,
+    {
+        "districtcode": "402"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7522KS"
+        ,
+        "straatnaam": "DR ZAMENHOFLAAN"
+        ,
+        "straatcode": "11836"
+        ,
+        "huisnummer": 175
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL NOORD"
+        ,
+        "latitude": 52.238014
+        ,
+        "longitude": 6.876507
+
+    }
+
+    ,
+    {
+        "districtcode": "403"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7523BJ"
+        ,
+        "straatnaam": "BOSUILSTRAAT"
+        ,
+        "straatcode": "17587"
+        ,
+        "huisnummer": 7
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL NOORD"
+        ,
+        "latitude": 52.232564
+        ,
+        "longitude": 6.897275
+
+    }
+
+    ,
+    {
+        "districtcode": "404"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7523ET"
+        ,
+        "straatnaam": "LIJSTERSTRAAT"
+        ,
+        "straatcode": "6080"
+        ,
+        "huisnummer": 30
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL NOORD"
+        ,
+        "latitude": 52.237296
+        ,
+        "longitude": 6.888533
+
+    }
+
+    ,
+    {
+        "districtcode": "405"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7523HC"
+        ,
+        "straatnaam": "ZAANSTRAAT"
+        ,
+        "straatcode": "11822"
+        ,
+        "huisnummer": 22
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL NOORD"
+        ,
+        "latitude": 52.238968
+        ,
+        "longitude": 6.885297
+
+    }
+
+    ,
+    {
+        "districtcode": "406"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7523GN"
+        ,
+        "straatnaam": "DOLLARDSTRAAT"
+        ,
+        "straatcode": "2190"
+        ,
+        "huisnummer": 55
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL NOORD"
+        ,
+        "latitude": 52.239942
+        ,
+        "longitude": 6.896253
+
+    }
+
+    ,
+    {
+        "districtcode": "407"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7523AL"
+        ,
+        "straatnaam": "TICHELWEG"
+        ,
+        "straatcode": "10121"
+        ,
+        "huisnummer": 7
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL NOORD"
+        ,
+        "latitude": 52.232608
+        ,
+        "longitude": 6.903630
+
+    }
+
+    ,
+    {
+        "districtcode": "408"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7523KA"
+        ,
+        "straatnaam": "HET ACHTERVOORT"
+        ,
+        "straatcode": "13809"
+        ,
+        "huisnummer": 1
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL NOORD"
+        ,
+        "latitude": 52.241503
+        ,
+        "longitude": 6.902542
+
+    }
+
+    ,
+    {
+        "districtcode": "501"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7531AX"
+        ,
+        "straatnaam": "MINKMAATSTRAAT"
+        ,
+        "straatcode": "6570"
+        ,
+        "huisnummer": 173
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.230685
+        ,
+        "longitude": 6.909142
+
+    }
+
+    ,
+    {
+        "districtcode": "502"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7531TB"
+        ,
+        "straatnaam": "DOTTERBLOEMSTRAAT"
+        ,
+        "straatcode": "2258"
+        ,
+        "huisnummer": 75
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.229834
+        ,
+        "longitude": 6.913856
+
+    }
+
+    ,
+    {
+        "districtcode": "503"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7531EC"
+        ,
+        "straatnaam": "HOGE BOEKELERWEG"
+        ,
+        "straatcode": "4025"
+        ,
+        "huisnummer": 135
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.227610
+        ,
+        "longitude": 6.924496
+
+    }
+
+    ,
+    {
+        "districtcode": "504"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7531XG"
+        ,
+        "straatnaam": "FLORAPARKSTRAAT"
+        ,
+        "straatcode": "2837"
+        ,
+        "huisnummer": 97
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.230524
+        ,
+        "longitude": 6.911933
+
+    }
+
+    ,
+    {
+        "districtcode": "505"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7531XG"
+        ,
+        "straatnaam": "FLORAPARKSTRAAT"
+        ,
+        "straatcode": "2837"
+        ,
+        "huisnummer": 155
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.230524
+        ,
+        "longitude": 6.911933
+
+    }
+
+    ,
+    {
+        "districtcode": "601"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7542WR"
+        ,
+        "straatnaam": "VASTERTLANDEN"
+        ,
+        "straatcode": "12365"
+        ,
+        "huisnummer": 167
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.193888
+        ,
+        "longitude": 6.897521
+
+    }
+
+    ,
+    {
+        "districtcode": "602"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7542LR"
+        ,
+        "straatnaam": "VELDHOFLANDEN"
+        ,
+        "straatcode": "12245"
+        ,
+        "huisnummer": 64
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.194484
+        ,
+        "longitude": 6.900226
+
+    }
+
+    ,
+    {
+        "districtcode": "603"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7542GT"
+        ,
+        "straatnaam": "HET STROINK"
+        ,
+        "straatcode": "9843"
+        ,
+        "huisnummer": 66
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.188658
+        ,
+        "longitude": 6.901579
+
+    }
+
+    ,
+    {
+        "districtcode": "604"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7542GT"
+        ,
+        "straatnaam": "HET STROINK"
+        ,
+        "straatcode": "9843"
+        ,
+        "huisnummer": 66
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.188658
+        ,
+        "longitude": 6.901579
+
+    }
+
+    ,
+    {
+        "districtcode": "606"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7542WR"
+        ,
+        "straatnaam": "HET STROINK"
+        ,
+        "straatcode": "9843"
+        ,
+        "huisnummer": 60
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.193888
+        ,
+        "longitude": 6.897521
+
+    }
+
+    ,
+    {
+        "districtcode": "607"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7544GG"
+        ,
+        "straatnaam": "VLIERSTRAAT"
+        ,
+        "straatcode": "10940"
+        ,
+        "huisnummer": 75
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.197892
+        ,
+        "longitude": 6.886006
+
+    }
+
+    ,
+    {
+        "districtcode": "608"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7544XC"
+        ,
+        "straatnaam": "HET LANG"
+        ,
+        "straatcode": "5462"
+        ,
+        "huisnummer": 78
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.195734
+        ,
+        "longitude": 6.882569
+
+    }
+
+    ,
+    {
+        "districtcode": "609"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7544LR"
+        ,
+        "straatnaam": "DE POSTEN"
+        ,
+        "straatcode": "7870"
+        ,
+        "huisnummer": 135
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.188679
+        ,
+        "longitude": 6.882434
+
+    }
+
+    ,
+    {
+        "districtcode": "610"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7544LR"
+        ,
+        "straatnaam": "DE POSTEN"
+        ,
+        "straatcode": "7870"
+        ,
+        "huisnummer": 147
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.188679
+        ,
+        "longitude": 6.882434
+
+    }
+
+    ,
+    {
+        "districtcode": "611"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7544NZ"
+        ,
+        "straatnaam": "BROEKHEURNERPLEIN"
+        ,
+        "straatcode": "16883"
+        ,
+        "huisnummer": 2
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.198552
+        ,
+        "longitude": 6.877924
+
+    }
+
+    ,
+    {
+        "districtcode": "612"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7544DA"
+        ,
+        "straatnaam": "HET BIJVANK"
+        ,
+        "straatcode": "1701"
+        ,
+        "huisnummer": 111
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.195329
+        ,
+        "longitude": 6.873340
+
+    }
+
+    ,
+    {
+        "districtcode": "613"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7544EL"
+        ,
+        "straatnaam": "HET OOSTERVELD"
+        ,
+        "straatcode": "7260"
+        ,
+        "huisnummer": 20
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.189266
+        ,
+        "longitude": 6.869393
+
+    }
+
+    ,
+    {
+        "districtcode": "614"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7546TA"
+        ,
+        "straatnaam": "BROEKHEURNERING"
+        ,
+        "straatcode": "12262"
+        ,
+        "huisnummer": 1050
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.195553
+        ,
+        "longitude": 6.861908
+
+    }
+
+    ,
+    {
+        "districtcode": "615"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7546CL"
+        ,
+        "straatnaam": "BEKSPRINGHOEK"
+        ,
+        "straatcode": "14129"
+        ,
+        "huisnummer": 170
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.189676
+        ,
+        "longitude": 6.854561
+
+    }
+
+    ,
+    {
+        "districtcode": "616"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7546EA"
+        ,
+        "straatnaam": "RAVENHORSTHOEK"
+        ,
+        "straatcode": "14430"
+        ,
+        "huisnummer": 38
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.193273
+        ,
+        "longitude": 6.852281
+
+    }
+
+    ,
+    {
+        "districtcode": "617"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7546EG"
+        ,
+        "straatnaam": "RUNENBERGHOEK"
+        ,
+        "straatcode": "14444"
+        ,
+        "huisnummer": 5
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL ZUID"
+        ,
+        "latitude": 52.194110
+        ,
+        "longitude": 6.852894
+
+    }
+
+    ,
+    {
+        "districtcode": "801"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7532AA"
+        ,
+        "straatnaam": "REDEMPTORISTENPARK"
+        ,
+        "straatcode": "8098"
+        ,
+        "huisnummer": 1
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.215599
+        ,
+        "longitude": 6.978844
+
+    }
+
+    ,
+    {
+        "districtcode": "802"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7534CD"
+        ,
+        "straatnaam": "JACOB ROGGEVEENSTRAAT"
+        ,
+        "straatcode": "8454"
+        ,
+        "huisnummer": 45
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.214452
+        ,
+        "longitude": 6.971881
+
+    }
+
+    ,
+    {
+        "districtcode": "803"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7534CP"
+        ,
+        "straatnaam": "OUVERTURESTRAAT"
+        ,
+        "straatcode": "7435"
+        ,
+        "huisnummer": 70
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.210739
+        ,
+        "longitude": 6.973286
+
+    }
+
+    ,
+    {
+        "districtcode": "804"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7534CP"
+        ,
+        "straatnaam": "OUVERTURESTRAAT"
+        ,
+        "straatcode": "7435"
+        ,
+        "huisnummer": 68
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.210739
+        ,
+        "longitude": 6.973286
+
+    }
+
+    ,
+    {
+        "districtcode": "805"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7534AM"
+        ,
+        "straatnaam": "GRONAUSESTRAAT"
+        ,
+        "straatcode": "3321"
+        ,
+        "huisnummer": 752
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.215643
+        ,
+        "longitude": 6.949342
+
+    }
+
+    ,
+    {
+        "districtcode": "806"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7534JZ"
+        ,
+        "straatnaam": "ESMARKELAAN"
+        ,
+        "straatcode": "17320"
+        ,
+        "huisnummer": 201
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.214904
+        ,
+        "longitude": 6.950823
+
+    }
+
+    ,
+    {
+        "districtcode": "807"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7534AC"
+        ,
+        "straatnaam": "GONAUSESTRAAT"
+        ,
+        "straatcode": "3321"
+        ,
+        "huisnummer": 827
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.216912
+        ,
+        "longitude": 6.953982
+
+    }
+
+    ,
+    {
+        "districtcode": "808"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7532AT"
+        ,
+        "straatnaam": "KERKSTRAAT"
+        ,
+        "straatcode": "4813"
+        ,
+        "huisnummer": 28
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL OOST"
+        ,
+        "latitude": 52.217313
+        ,
+        "longitude": 6.973728
+
+    }
+
+    ,
+    {
+        "districtcode": "901"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7546RD"
+        ,
+        "straatnaam": "LAMMERINKWEG"
+        ,
+        "straatcode": "5373"
+        ,
+        "huisnummer": 10
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.201152
+        ,
+        "longitude": 6.833697
+
+    }
+
+    ,
+    {
+        "districtcode": "902"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7548AH"
+        ,
+        "straatnaam": "BOEKELERSCHOOLPAD"
+        ,
+        "straatcode": "13175"
+        ,
+        "huisnummer": 1
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.202867
+        ,
+        "longitude": 6.801244
+
+    }
+
+    ,
+    {
+        "districtcode": "903"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7548CD"
+        ,
+        "straatnaam": "SAFFIERSTRAAT"
+        ,
+        "straatcode": "8721"
+        ,
+        "huisnummer": 30
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL WEST"
+        ,
+        "latitude": 52.205010
+        ,
+        "longitude": 6.794871
+
+    }
+
+    ,
+    {
+        "districtcode": "904"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7524CK"
+        ,
+        "straatnaam": "DORPSSTRAAT"
+        ,
+        "straatcode": "2244"
+        ,
+        "huisnummer": 98
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL NOORD"
+        ,
+        "latitude": 52.250430
+        ,
+        "longitude": 6.914402
+
+    }
+
+    ,
+    {
+        "districtcode": "905"
+        ,
+        "locatienaam": ""
+        ,
+        "postcode": "7524CK"
+        ,
+        "straatnaam": "DORPSSTRAAT"
+        ,
+        "straatcode": "2244"
+        ,
+        "huisnummer": 98
+        ,
+        "huisnummertoevoeging": "NULL"
+        ,
+        "stadsdeel": "STADSDEEL NOORD"
+        ,
+        "latitude": 52.250430
+        ,
+        "longitude": 6.914402
+
+    }
+
+    ]
